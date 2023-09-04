@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET_HW_13", "ASP.NET_HW_13\ASP.NET_HW_13.csproj", "{5A14ACBA-9A25-450A-AEA8-01D6081B80FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A14ACBA-9A25-450A-AEA8-01D6081B80FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A14ACBA-9A25-450A-AEA8-01D6081B80FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A14ACBA-9A25-450A-AEA8-01D6081B80FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A14ACBA-9A25-450A-AEA8-01D6081B80FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
