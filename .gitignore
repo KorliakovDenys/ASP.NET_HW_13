@@ -1,0 +1,9 @@
+/.idea
+Client/bin
+Client/obj
+Client/appsettings.Development.json
+Server/bin
+Server/obj
+Server/appsettings.Development.json
+SharedLibrary/bin
+SharedLibrary/obj
